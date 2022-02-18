@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in Quantum Computing
+- 🌱 I’m currently learning on Shor's algorithm
